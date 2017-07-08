@@ -1,0 +1,33 @@
+h1 {
+    text-transform: uppercase;
+}
+
+.frase {
+    font-size: 20px;
+    text-align: left;
+}
+
+.campo-digitacao {
+    font-size: 20px;
+    height: 150px;
+}
+
+.campo-desativado {
+    background-color: lightgray;
+}
+
+.icones {
+    vertical-align: middle;
+}
+
+.campo-correto {
+    border: 3px solid green;
+}
+
+.campo-errado {
+    border: 3px solid red;
+}
+
+.destaque:hover {
+    background-color: lightgray;
+}
